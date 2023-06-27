@@ -4,7 +4,7 @@ The code for an interactive storytelling application built with OpenAI's GPT-3 l
 **Installation:**
 To use the Story Generator AI, follow these steps:
 1. Clone this repository to your local machine.
-2. Install the required dependencies by running pip install -r requirements.txt.
+2. Install the required dependencies by running **pip install gradio and pip install openai**.
 3. Set up your OpenAI API key by signing up for an account on the OpenAI website and obtaining an API key.
 4. Replace the openai.api_key value in the code with your API key.
 
