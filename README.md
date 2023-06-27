@@ -1,5 +1,5 @@
 # NarrativAI : Story and Poem Generator
-The code for an interactive storytelling application built with OpenAI's GPT-3 language model is available on GitHub. Users can create unique stories and poems by giving prompts. The generated stories and poems are developed by utilising the text creation features of GPT-3.
+The code for an interactive storytelling and poem reciting application built with OpenAI's GPT-3 language model is available on GitHub. Users can create unique stories and poems by giving prompts. The generated stories and poems are developed by utilising the text creation features of GPT-3.
 
 **Installation:**
 To use the NarrativAI, follow these steps:
